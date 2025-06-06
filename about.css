@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.con{
+  position: relative;
+top: 10px;
+text-align: center;
+font-family: poppins;
+width: 750px;
+background-color: #434343;
+  padding: 10px;
+  margin: auto;
+border: 2px solid black;
+}
+h1
+{  text-align: center;
+  color: white;
+
+  font-family: poppins;
+}
+p{
+  text-align: center;
+  justify-content:
+center;
+font-family: serif;
+  color: white;
+}
+.ficon{  text-align: center;
+  width: 20px;  color: white;
+}
+.img{
+
+position: relative;
+float: left;
+width: 100%;
+height: 190px;
+border: 2px solid black;
+}
