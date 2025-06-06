@@ -1,0 +1,28 @@
+*{
+margin: 0;
+padding: 0;
+text-decoration: none;
+list-style: none;
+box-sizing:
+
+
+}
+.container{
+  width: 100%;
+  height: 100vh;
+  background: url(back.png);
+  background-position: center;
+  background-size: cover;
+
+}
+.top{
+width: 100%;
+height: 100px;
+background-color: red;
+
+
+}
+.logoa img{
+  width: 90px;
+
+}
